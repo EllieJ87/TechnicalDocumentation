@@ -6,9 +6,9 @@ The overall aim was to acheive a Technical Documentation page, this was only foc
 
 ## Showcase
 
-![Product Landing Page](images/responsive-design.jpg) 
+![Technical Documentation Page](images/responsive-design.jpg) 
 
-A deployed version of my website can be found [here](https://elliej87.github.io/ProductLandingPage/)
+A deployed version of my website can be found [here](https://elliej87.github.io/TechnicalDocumentation/)
 
 This domain will allow you to access the Tribute Page website.
 
@@ -263,7 +263,7 @@ The hosting platform that I've used for my project is GitHub Pages. To deploy my
 
 ### <a name="repositorylink">Repository Link</a>
 
-[Product Landing Page](https://elliej87.github.io/ProductLandingPage/)
+[Technical Documentation Page](https://elliej87.github.io/TechnicalDocumentation/)
 
 ### <a name="runningcodelocally">Running Code Locally</a>
 
